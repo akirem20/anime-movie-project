@@ -1,4 +1,5 @@
 # Anime Project
+![Alt text](image/anime1.png)
 
 ## Description
 
